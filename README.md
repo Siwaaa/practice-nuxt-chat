@@ -1,5 +1,7 @@
 # chat-treni
 
+# В разработке
+
 ## Build Setup
 
 ```bash
